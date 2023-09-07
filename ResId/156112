@@ -1,0 +1,269 @@
+
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "156112",
+              "name": "The Good Bowl",
+              "city": "Mumbai",
+              "slugs": {
+                "restaurant": "the-good-bowl-mahakali-fc-andheri-east",
+                "city": "mumbai"
+              },
+              "uniqueId": "90b44acd-41f9-4bc8-ae70-4d69399c08f2",
+              "cloudinaryImageId": "0b3356a88b6fc5966c452c4c9b1b5e4a",
+              "locality": "Mahakali FC",
+              "areaName": "Andheri East",
+              "costForTwo": "40000",
+              "costForTwoMessage": "₹400 for two",
+              "cuisines": [
+                "Biryani",
+                "North Indian"
+              ],
+              "avgRating": 4.1,
+              "feeDetails": {
+                "restaurantId": "156112",
+                "fees": [
+                  {
+                    "name": "distance",
+                    "fee": 3800
+                  },
+                  {
+                    "name": "time"
+                  },
+                  {
+                    "name": "special"
+                  }
+                ],
+                "totalFee": 3800,
+                "title": "Delivery Charge",
+                "amount": "3800"
+              },
+              "parentId": "7918",
+              "avgRatingString": "4.1",
+              "totalRatingsString": "1K+ ratings",
+              "sla": {
+                "restaurantId": "156112",
+                "deliveryTime": 27,
+                "minDeliveryTime": 27,
+                "maxDeliveryTime": 27,
+                "lastMileTravel": 3.5,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 0.6629952,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 37,
+                "slaString": "27 MINS",
+                "lastMileTravelString": "3.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextOpenTimeMessage": "Opens next at 5:30 am, Thursday",
+                "nextOpenTime": "1970-01-01 05:30:00",
+                "visibility": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "aggregatedDiscountInfo": {
+                "visible": true
+              },
+              "badges": {
+                
+              },
+              "slugString": "the-good-bowl-mahakali-fc-andheri-east",
+              "multiOutlet": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Gala no 20 MADHUBAN IND ESTATE T near holi family school MUMBAI 4OOO93 Mahakali, Andhari EasT"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Biryani,North Indian"
+                }
+              ],
+              "logo": "rng/md/carousel/production/hfpxtvd1qvabww2jtinp",
+              "totalRatings": 1000,
+              "aggregatedDiscountInfoV2": {
+                "visible": true
+              },
+              "type": "F",
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/156112"
+              },
+              "generalPurposeInfoListV2": [
+                {
+                  "cta": {
+                    "info": {
+                      "recordings": {
+                        
+                      }
+                    },
+                    "linkCta": {
+                      
+                    }
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 5:30 am, Thursday",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Currently"
+                },
+                "subTitle": {
+                  "text": "CLOSED"
+                },
+                "message": {
+                  "text": "Uh-oh! The outlet is not accepting orders at the moment. We're working to get them back online",
+                  "textColour": "primary"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#EB8322",
+                  "bgGradientColorEnd": "#EE5803"
+                }
+              },
+              "nearestOutletNudge": {
+                "nearestOutletInfo": {
+                  "siblingOutlet": {
+                    "id": "156121",
+                    "city": "0",
+                    "slugs": {
+                      
+                    },
+                    "areaName": "Andheri West",
+                    "costForTwo": "0",
+                    "feeDetails": {
+                      
+                    },
+                    "sla": {
+                      "deliveryTime": 31,
+                      "lastMileTravel": 2.8,
+                      "slaString": "31 MINS",
+                      "lastMileTravelString": "2.7 km",
+                      "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                      "restaurantClosedMeta": {
+                        
+                      }
+                    },
+                    "aggregatedDiscountInfo": {
+                      "visible": true
+                    },
+                    "badges": {
+                      
+                    },
+                    "aggregatedDiscountInfoV2": {
+                      "visible": true
+                    },
+                    "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                    "cartOrderabilityNudgeBanner": {
+                      "parameters": {
+                        
+                      },
+                      "presentation": {
+                        
+                      }
+                    }
+                  }
+                },
+                "nearestOutletComms": {
+                  "title": {
+                    "text": "Don't worry! Try our outlet that's delivering"
+                  },
+                  "subTitle": {
+                    "text": "Switch to the fastest alternate"
+                  }
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "latLong": "19.1196723,72.8600431"
+            },
+            "analytics": {
+              
+            }
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {
+                        
+                      },
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": [
+                        "License No. 11518005001267"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "The Good Bowl",
+                      "area": "Andheri East",
+                      "completeAddress": "Gala no 20 MADHUBAN IND ESTATE T near holi family school MUMBAI 4OOO93 Mahakali, Andhari EasT"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "9bf26971-b1c4-4357-83b6-bd4a7bf299e3",
+  "sid": "97379112-03a2-43f7-8e87-a700013a8f53",
+  "deviceId": "79fd2833-0048-91b1-d89d-3c9e656fac6f",
+  "csrfToken": "zQfbOVAoddjC-7IFbkDe6xhgE2cI2THtIa3QPt0k"
+}

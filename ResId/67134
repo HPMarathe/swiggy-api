@@ -1,0 +1,3670 @@
+
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "67134",
+              "name": "NIC Ice Creams",
+              "city": "Mumbai",
+              "slugs": {
+                "restaurant": "nic-natural-ice-cream-opp-sai-palace-hotel-andheri-east",
+                "city": "mumbai"
+              },
+              "uniqueId": "0a9e2214-a505-4c38-b4ec-ca0f7599225e",
+              "cloudinaryImageId": "c8b98c4064dc2fd6bdf350212e5f0bd5",
+              "locality": "Bindra Classic",
+              "areaName": "Andheri East",
+              "costForTwo": "12000",
+              "costForTwoMessage": "₹120 for two",
+              "cuisines": [
+                "Ice Cream",
+                "Desserts"
+              ],
+              "avgRating": 4.7,
+              "veg": true,
+              "feeDetails": {
+                "restaurantId": "67134",
+                "fees": [
+                  {
+                    "name": "distance",
+                    "fee": 3200
+                  },
+                  {
+                    "name": "time"
+                  },
+                  {
+                    "name": "special"
+                  }
+                ],
+                "totalFee": 3200,
+                "title": "Delivery Charge",
+                "amount": "3200"
+              },
+              "parentId": "6249",
+              "avgRatingString": "4.7",
+              "totalRatingsString": "10K+ ratings",
+              "sla": {
+                "restaurantId": "67134",
+                "deliveryTime": 25,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 25,
+                "lastMileTravel": 2.6,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 0.78806967,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 37,
+                "slaString": "25 MINS",
+                "lastMileTravelString": "2.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2023-09-08 00:00:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "aggregatedDiscountInfo": {
+                "header": "Get every item under 159",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Get every item under 159",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Get every item under 159",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "20% off up to ₹100 | Above ₹249",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {
+                
+              },
+              "slugString": "nic-natural-ice-cream-opp-sai-palace-hotel-andheri-east",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Shop no  5 A wing building no  5 Ground floor Bindra Classic CHS LTD Shere Punjab Society Andheri east Mumbai 400093"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Ice Cream,Desserts"
+                }
+              ],
+              "logo": "v1669886826/Brand logo/NIC_Natural_Ice_Creams",
+              "totalRatings": 10000,
+              "aggregatedDiscountInfoV2": {
+                "header": "Get every item under 159",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Get every item under 159",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Get every item under 159",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "20% off up to ₹100 | Above ₹249",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ]
+              },
+              "type": "F",
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/67134"
+              },
+              "expectationNotifiers": [
+                {
+                  "icon": {
+                    
+                  },
+                  "popup": {
+                    "cta": {
+                      
+                    }
+                  },
+                  "type": "DISTANCE_FEE_NON_FOOD_LM",
+                  "halfCardPopup": {
+                    "halfCardPopupHeader": {
+                      
+                    }
+                  }
+                }
+              ],
+              "generalPurposeInfoListV2": [
+                {
+                  "imageId": "trending_solid",
+                  "fontColor": "#7E808C",
+                  "cta": {
+                    "info": {
+                      "recordings": {
+                        
+                      }
+                    },
+                    "linkCta": {
+                      
+                    }
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "hasBestsellerItems": true,
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "latLong": "19.1238476,72.86079480000001"
+            },
+            "analytics": {
+              
+            }
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 1,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {
+                
+              },
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {
+                
+              }
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "EVERY ITEM @ ₹159",
+                      "offerTag": "DEAL OF DAY",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "b3b99df6-3888-438b-a87e-79aa57e36d35"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "offerType": "offers",
+                      "restId": "67134",
+                      "offerLogo": "offers/deal-of-day",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "isPureVeg": true,
+                      "badges": {
+                        
+                      },
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "offersFilter": {
+                        "attributes": {
+                          "displayText": "Offer"
+                        }
+                      },
+                      "topRatedFilter": {
+                        
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "92339869",
+                              "name": "Belgian Chocolate Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Kcal/serving: 178",
+                              "imageId": "8cb1d037b6940e6fab4624de0692be40",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9322,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "38 ratings",
+                                  "ratingCountV2": "38"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Newly Launched",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "122157482",
+                              "name": "Kiwi And Pear Ice Cream 100ml",
+                              "category": "Newly Launched",
+                              "description": "A refreshing blend of juicy Kiwi and succulent Pears, creating a delightful ice cream treat with a tropical twist.",
+                              "imageId": "f1c3700285e642f458102de523d79696",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7203,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "103758067",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "122157484",
+                              "name": "Kiwi And Pear Ice Cream 500ml",
+                              "category": "Newly Launched",
+                              "description": "A refreshing blend of juicy Kiwi and succulent Pears, creating a delightful ice cream treat with a tropical twist.",
+                              "imageId": "e446505bb4334d7c36c62ad8cd9d8cb8",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31356,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "103758068",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "100 ml Ice Creams",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "84149522",
+                              "name": "Strawberry Cheesecake Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Super fruity, tangy, sweet and incredibly creamy - Nic's strawberry cheesecake variant contains all the essentials for a perfect dessert experience. Kcal/serving: 174",
+                              "imageId": "0b492dbb0e44d5fe28d71121fb257e69",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9322,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "37 ratings",
+                                  "ratingCountV2": "37"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "63306878",
+                              "name": "Coffee Walnut Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "A crunch of rich walnut blended with the fine taste of coffee in your Ice Cream. Kcal/serving: 172",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6780,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "120 ratings",
+                                  "ratingCountV2": "120"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "60093669",
+                              "name": "French Vanilla Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Experience the bliss of pure vanilla beans extract in every bite of this Ice Cream. Kcal/serving: 151",
+                              "imageId": "4f48f7f6cc2ec782c4c52f0a4fce02e1",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8051,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "84 ratings",
+                                  "ratingCountV2": "84"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47947030",
+                              "name": "Strawberry Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Kcal/serving: 132",
+                              "imageId": "d5eebdaa551bb6dd8dd84d608672c184",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6780,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "55 ratings",
+                                  "ratingCountV2": "55"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027250",
+                              "name": "Tender Coconut Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Relish the refreshing and fresh bites of Tender Coconut, only in NIC's Tender Coconut. Kcal/serving: 143",
+                              "imageId": "57a49cb24b8a95ed304b4e2c4652d7d1",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6780,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "875 ratings",
+                                  "ratingCountV2": "875"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027254",
+                              "name": "Sea Salt Caramel Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | A decadent swirl of Mediterranean sea salt & crunch of crispy pearls ice cream for a tantalizing combination of taste and texture. Kcal/serving: 179",
+                              "imageId": "13b18e57ebb679ba3d657f6532f75249",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9322,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "198 ratings",
+                                  "ratingCountV2": "198"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027256",
+                              "name": "Roasted Almond Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Roasted almonds is a must-have. Its crunchy texture with its singular flavour is unparalleled. Also available in sugarless. Kcal/serving: 172",
+                              "imageId": "b773df856b6afe88038faaf0c24ef651",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6780,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "583 ratings",
+                                  "ratingCountV2": "583"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027259",
+                              "name": "Paan Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Dessert? Or Mouthfreshner? A delightfully tasty combination giving you the best of both. Kcal/serving: 153",
+                              "imageId": "ccd384ff3d7a54ffbd20e732d98827e9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7203,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "366 ratings",
+                                  "ratingCountV2": "366"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027261",
+                              "name": "Mixed Berries Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Crafted with imported Californian Cranberries, Blueberries and Strawberries. This ice cream is perfect to give you a berry rush! Kcal/serving: 153",
+                              "imageId": "e07e2217ad309df2aa2d75a205b7fdd6",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8051,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "486 ratings",
+                                  "ratingCountV2": "486"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027263",
+                              "name": "Alphonso Mango Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "The king of fruits adds a delightful flavour to your scoop. The perfect taste of Rich and Pure Ratnagiri Alphonso Mango in every bite. Kcal/serving: 138",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6780,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "343 ratings",
+                                  "ratingCountV2": "343"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027265",
+                              "name": "Madagascar Chocolate Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Extra rich & smooth Madagascar Ice Cream, takes chocolate indulgence to a level beyond description. Kcal/serving: 173",
+                              "imageId": "c7df812b51f371ab6fb5983d7f2ab38d",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9322,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "319 ratings",
+                                  "ratingCountV2": "319"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027270",
+                              "name": "Gulab Jamun Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Now India's favourite Gulab Jamun in ice cream. Lose yourself in its rich aroma & indulgent texture. Kcal/serving: 186",
+                              "imageId": "9fa3a9fd0eb99b1c3447607bd5ce8690",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7203,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "456 ratings",
+                                  "ratingCountV2": "456"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027273",
+                              "name": "Dryfruit Overload Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | A scoop of Ice Cream Loaded with Cashews, Almonds, Pistas and Kishmishs. Needs no further description. Kcal/serving: 172",
+                              "imageId": "5f4aaf8b9eaf349fb9bcaeaaf818d99d",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8051,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "490 ratings",
+                                  "ratingCountV2": "490"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027275",
+                              "name": "Chocochips Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Melt in mouth chocolate chips in every spoon. Truly, a decadent ice cream experience. Kcal/serving: 204",
+                              "imageId": "d7585d20a3d1c51dc180f689bf71ec77",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6780,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "414 ratings",
+                                  "ratingCountV2": "414"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027278",
+                              "name": "Apricot Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Dive into the premium taste of Imported Apricot Ice Cream. Kcal/serving: 132",
+                              "imageId": "43febf9a50020f600f55c8e422c38314",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8051,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "217 ratings",
+                                  "ratingCountV2": "217"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027281",
+                              "name": "Anjeer Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | The smooth and creamy texture of Anjeer Ice Cream. Great for consuming anytime! Kcal/serving: 156",
+                              "imageId": "b50cc387088ab1eeecda46feaa7d4bec",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6780,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "395 ratings",
+                                  "ratingCountV2": "395"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "92339869",
+                              "name": "Belgian Chocolate Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | Kcal/serving: 178",
+                              "imageId": "8cb1d037b6940e6fab4624de0692be40",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9322,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "38 ratings",
+                                  "ratingCountV2": "38"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027289",
+                              "name": "Sitaphal Ice Cream 100ml",
+                              "category": "100 ml Ice Creams",
+                              "description": "Serves 1 | A tropical delight in a 100 ml tub. This one is hard to put down and made for every mood.",
+                              "imageId": "ff419e49c4a2a54dc74f3c3404a61dd8",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6780,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "511 ratings",
+                                  "ratingCountV2": "511"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "500 ml Ice Creams",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554540",
+                              "name": "Strawberry Cheesecake Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 1 | Super fruity, tangy, sweet and incredibly creamy - Nic's strawberry cheesecake variant contains all the essentials for a perfect dessert experience. Kcal/serving: 174",
+                              "imageId": "9cd4f3dad3f29aa9846c9e2ac3915276",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 36017,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "103112560",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "40 ratings",
+                                  "ratingCountV2": "40"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554355",
+                              "name": "Coffee Walnut Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Kcal/serving: 172",
+                              "imageId": "43b1dbed2e55d79b468f238a0480e5fc",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "103112559",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "67 ratings",
+                                  "ratingCountV2": "67"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554402",
+                              "name": "French Vanilla Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Kcal/serving: 151",
+                              "imageId": "bb1f012421e094c6261011043ee6f8e6",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31356,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96506008",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "30 ratings",
+                                  "ratingCountV2": "30"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554551",
+                              "name": "Strawberry Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Kcal/serving: 132",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96506003",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "16 ratings",
+                                  "ratingCountV2": "16"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "99166343",
+                              "name": "Tender Coconut Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Relish the refreshing and fresh bites of Tender Coconut, only in NIC's Tender Coconut. Kcal/serving: 143",
+                              "imageId": "687b0cf6f80eb8c13655566fa55eb292",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505946",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "552 ratings",
+                                  "ratingCountV2": "552"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554509",
+                              "name": "Roasted Almond Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Roasted almonds is a must-have. Its crunchy texture with its singular flavour is unparalleled. Also available in sugarless. Kcal/serving: 172",
+                              "imageId": "30484202640adeb925ccb84d220828ec",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505952",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "391 ratings",
+                                  "ratingCountV2": "391"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554493",
+                              "name": "Paan Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Dessert? Or Mouth-Freshner? A delightfully tasty combination giving you the best of both. Kcal/serving: 153",
+                              "imageId": "42e97cc97130afef8ac4301788ce901a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28814,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505957",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "77 ratings",
+                                  "ratingCountV2": "77"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554463",
+                              "name": "Mixed Berries Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Crafted with imported Californian Cranberries, Blueberries and Strawberries. This ice cream is perfect to give you a berry rush! Kcal/serving: 153",
+                              "imageId": "4d673d6aa27e848eecc74c419d2ecd56",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31356,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505963",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "241 ratings",
+                                  "ratingCountV2": "241"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "63622755",
+                              "name": "Alphonso Mango Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | The king of fruits adds a delightful flavour to your scoop. The perfect taste of Rich and Pure Ratnagiri Alphonso Mango in every bite. Kcal/serving: 138",
+                              "imageId": "b8c11be49be90ebef04d0b209d470771",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505973",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "112 ratings",
+                                  "ratingCountV2": "112"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554440",
+                              "name": "Kesar Pista Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | A perfect combination of divine richness. Relish the royal treat of Kesar and Pista Ice Cream. Kcal/serving: 163",
+                              "imageId": "335941ec6ceb46182aa7f98ac0ec23ac",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "102638650",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "304 ratings",
+                                  "ratingCountV2": "304"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554418",
+                              "name": "Jaggery Almond Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Pure Jaggery and Crunchy Almond come together in this playful ice cream delight. Kcal/serving: 181",
+                              "imageId": "2db4e2a16f85c8d4f560f9260ae8cf3a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28814,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505984",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.9",
+                                  "ratingCount": "99 ratings",
+                                  "ratingCountV2": "99"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554409",
+                              "name": "Gulab Jamun Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Now India's favourite Gulab Jamun in ice cream. Lose yourself in its rich aroma & indulgent texture. Kcal/serving: 186",
+                              "imageId": "1bab174fd6cdea939fa0439940a4b73a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28814,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505987",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "176 ratings",
+                                  "ratingCountV2": "176"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554397",
+                              "name": "Dryfruit Overload Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | A scoop of Ice Cream Loaded with Cashews, Almonds, Pistas and Kishmishs. Needs no further description. Kcal/serving: 172",
+                              "imageId": "3bc8883b9d6acb39deb9f60834211986",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31356,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505991",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "257 ratings",
+                                  "ratingCountV2": "257"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554391",
+                              "name": "Cookies N Cream Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Dedicated to lovers of cookies. A fun scoop of Oreo cookies in your Ice Cream. Kcal/serving: 167",
+                              "imageId": "9d900415c2936a66865bfd459fc6e710",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505921",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "33 ratings",
+                                  "ratingCountV2": "33"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "63622750",
+                              "name": "Chocochips Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Melt in mouth chocolate chips in every spoon. Truly, a decadent ice cream experience. Kcal/serving: 204",
+                              "imageId": "yrdlv1sntie01t3ooies",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505926",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "145 ratings",
+                                  "ratingCountV2": "145"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554318",
+                              "name": "Apricot Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | Dive into the premium taste of Imported Apricot Ice Cream. Kcal/serving: 132",
+                              "imageId": "72a9ce87514df94837df564072f00fe3",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31356,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505933",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "46 ratings",
+                                  "ratingCountV2": "46"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554302",
+                              "name": "Anjeer Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | The smooth and creamy texture of Anjeer Ice Cream. Great for consuming anytime! Kcal/serving: 156",
+                              "imageId": "27ebbe42348cea653b1f7186bef3e94b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505943",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "159 ratings",
+                                  "ratingCountV2": "159"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98554532",
+                              "name": "Sitaphal Ice Cream 500ml",
+                              "category": "500 ml Ice Creams",
+                              "description": "Serves 5 | A delightful ice cream with a rich, creamy texture. It offers luscious chunks of sitaphal in a pack of 500 ml.",
+                              "imageId": "21130b448c213b46bbcc6e0250751f8a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25424,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "96505994",
+                                  "groupName": "Addon Cones",
+                                  "choices": [
+                                    {
+                                      "id": "93183841",
+                                      "name": "Ice Cream Cones (Pack of 5)",
+                                      "price": 6356,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 5"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "405 ratings",
+                                  "ratingCountV2": "405"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Sugarless (Lite)",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "112797674",
+                              "name": "Alphonso Mango Sugar Less Ice Cream 100ml (lite)",
+                              "category": "Sugarless (Lite)",
+                              "description": "Kcal/serving: 137",
+                              "imageId": "8143b745cc703b836ee4545393f0a017",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8051,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "112797675",
+                              "name": "Alphonso Mango Sugar Less Ice Cream 500ml (lite)",
+                              "category": "Sugarless (Lite)",
+                              "description": "Kcal/serving: 137",
+                              "imageId": "c3a355658b2400422b0392195ce9f31c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31356,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "112797676",
+                              "name": "Anjeer Sugar Less Ice Cream 100ml (lite)",
+                              "category": "Sugarless (Lite)",
+                              "description": "The smooth and creamy texture of Anjeer Ice Cream. Great for consuming anytime! Kcal/serving: 152",
+                              "imageId": "fbac3bea3001c97a9252acd64814a89a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8051,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "112797677",
+                              "name": "Anjeer Sugar Less Ice Cream 500ml (lite)",
+                              "category": "Sugarless (Lite)",
+                              "description": "The smooth and creamy texture of Anjeer Ice Cream. Great for consuming anytime! Kcal/serving: 152",
+                              "imageId": "d671888c953156169995006c9d658ea8",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31356,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "112797678",
+                              "name": "Roasted Almond Sugar Less Ice Cream 100ml (lite)",
+                              "category": "Sugarless (Lite)",
+                              "description": "Roasted almonds is a must-have. Its crunchy texture with its singular flavour is unparalleled. Also available in sugarless. Kcal/serving: 182",
+                              "imageId": "66a8cb084255d6b14522e410ccd62720",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8051,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "112797679",
+                              "name": "Roasted Almond Sugar Less Ice Cream 500ml (lite)",
+                              "category": "Sugarless (Lite)",
+                              "description": "Roasted almonds is a must-have. Its crunchy texture with its singular flavour is unparalleled. Also available in sugarless. Kcal/serving: 182",
+                              "imageId": "b474984dabff6b11d97aff719d7b0488",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31356,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "112797680",
+                              "name": "Tender Coconut Sugar Less Ice Cream 100ml (lite)",
+                              "category": "Sugarless (Lite)",
+                              "description": "Relish the refreshing and fresh bites of Tender Coconut, only in NIC's Tender Coconut. Kcal/serving: 143",
+                              "imageId": "d3e638e984d6c28c0bf5d77fe5fcd0c8",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8051,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "112797681",
+                              "name": "Tender Coconut Sugar Less Ice Cream 500ml (lite)",
+                              "category": "Sugarless (Lite)",
+                              "description": "Relish the refreshing and fresh bites of Tender Coconut, only in NIC's Tender Coconut. Kcal/serving: 143",
+                              "imageId": "8002835e75e17be63a5b01a24e2637ea",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31356,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Kulfi",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027262",
+                              "name": "Stick Paan Kulfi",
+                              "category": "Kulfi",
+                              "description": "Serves 1 | Tradition meets innovation. This combination made for Indian hearts and palates.",
+                              "imageId": "ppgrxxxqihqwl3vssx05",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5508,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "163 ratings",
+                                  "ratingCountV2": "163"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027266",
+                              "name": "Stick Malai Kulfi",
+                              "category": "Kulfi",
+                              "description": "Serves 1 | Kcal/serving: 155",
+                              "imageId": "pgjxvr5qvwttek2sdfb7",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5508,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "299 ratings",
+                                  "ratingCountV2": "299"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027269",
+                              "name": "Stick Kesar Pista Kulfi",
+                              "category": "Kulfi",
+                              "description": "Serves 1 | Kcal/serving: 161",
+                              "imageId": "pyu8kydimgfocuvmv8ol",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5508,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "234 ratings",
+                                  "ratingCountV2": "234"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027271",
+                              "name": "Stick Jaggery Almond Kulfi",
+                              "category": "Kulfi",
+                              "description": "Serves 1 | Made from Jaggery and almond give into its unique & tantalizing taste.",
+                              "imageId": "cyxr8p6nzr6mukdpu08z",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5508,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "121 ratings",
+                                  "ratingCountV2": "121"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027274",
+                              "name": "Stick Gulkand Kulfi",
+                              "category": "Kulfi",
+                              "description": "Serves 1 | Kcal/serving: 140",
+                              "imageId": "j3ixrzkygi15fbdjlo6c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5508,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "150 ratings",
+                                  "ratingCountV2": "150"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027277",
+                              "name": "Slice Malai Kulfi [pack Of 3]",
+                              "category": "Kulfi",
+                              "description": "Serves 3 | Kcal/serving: 215",
+                              "imageId": "idxhkoljmjkzhywmwcgk",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16102,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 3"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "283 ratings",
+                                  "ratingCountV2": "283"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027280",
+                              "name": "Matka Malai Kulfi [pack Of 2]",
+                              "category": "Kulfi",
+                              "description": "Serves 2 | Kcal/serving: 195",
+                              "imageId": "iokyim4pxm1ycokeukmv",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14407,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 2"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "192 ratings",
+                                  "ratingCountV2": "192"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47027282",
+                              "name": "Matka Dryfruit Malai Kulfi [pack Of 2]",
+                              "category": "Kulfi",
+                              "description": "Serves 2 | Kcal/serving: 224",
+                              "imageId": "mtgqexokcmxjas7cl8vy",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16102,
+                              "finalPrice": 15900,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 2"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "250 ratings",
+                                  "ratingCountV2": "250"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Ice Cream Cones",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "109316592",
+                              "name": "Ice Cream Cones (pack Of 5)",
+                              "category": "Ice Cream Cones",
+                              "description": "NIC Ice Cream Cones, now scoop out your favourite ice creams in a cone. Introducing ice cream cones in a vacuum pack, to ensure they reach your doorstep in its best form.",
+                              "imageId": "59c6e46504744f9b136dbc62aad5bb3b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6356,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  
+                                }
+                              ],
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": [
+                        "License No. 11519005000321"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "NIC Ice Creams",
+                      "area": "Andheri East",
+                      "completeAddress": "Shop no  5 A wing building no  5 Ground floor Bindra Classic CHS LTD Shere Punjab Society Andheri east Mumbai 400093"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "9bf26971-b1c4-4357-83b6-bd4a7bf299e3",
+  "sid": "97379112-03a2-43f7-8e87-a700013a8f53",
+  "deviceId": "79fd2833-0048-91b1-d89d-3c9e656fac6f",
+  "csrfToken": "dKim6TqdAsIo-Cc7GevKl9hT72KSkAISOJ0MaZzY"
+}
